@@ -9,12 +9,12 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <NavBar/>
         <Routes>
-          <Route path="/react-tomato-blog/" element={<Home/>}/>
-          <Route path="/react-tomato-blog/blog" element={<Post/>}/>
-          <Route path="/react-tomato-blog/write" element={<NewPage/>}/>
+          <Route path="/" element={<Home/>}/>
+          <Route path="/blog" element={<Post/>}/>
+          <Route path="/write" element={<NewPage/>}/>
         </Routes>
       <Footer/>
     </Router>
