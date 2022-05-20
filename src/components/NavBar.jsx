@@ -6,11 +6,11 @@ export default function NavBar() {
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="/" class="text-gray">Pomidorowo</a>
+                <a href="./" class="text-gray">Pomidorowo</a>
             </div>
             <div>
                 <ul class="nav-items">
-                    <a href="/">
+                    <a href="./">
                         <li class="nav-link">
                             Pomidory Rzymskie
                         </li>
