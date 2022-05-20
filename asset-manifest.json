@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-tomato-blog/static/css/main.402aec60.css",
-    "main.js": "/react-tomato-blog/static/js/main.44532c91.js",
+    "main.js": "/react-tomato-blog/static/js/main.f0748e1d.js",
     "static/media/background-pomidory1.jpg": "/react-tomato-blog/static/media/background-pomidory1.a9c0920ca62499c7b1b9.jpg",
     "static/media/tomato-post-2.jpg": "/react-tomato-blog/static/media/tomato-post-2.a0bd27a21ed8b36b71b7.jpg",
     "static/media/tomato-post-4.jpg": "/react-tomato-blog/static/media/tomato-post-4.9ff418e0b2b4ae3c15b3.jpg",
@@ -15,10 +15,10 @@
     "static/media/Abel-Regular.ttf": "/react-tomato-blog/static/media/Abel-Regular.e8b810b8f2364e791205.ttf",
     "index.html": "/react-tomato-blog/index.html",
     "main.402aec60.css.map": "/react-tomato-blog/static/css/main.402aec60.css.map",
-    "main.44532c91.js.map": "/react-tomato-blog/static/js/main.44532c91.js.map"
+    "main.f0748e1d.js.map": "/react-tomato-blog/static/js/main.f0748e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.402aec60.css",
-    "static/js/main.44532c91.js"
+    "static/js/main.f0748e1d.js"
   ]
 }
