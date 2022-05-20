@@ -12,9 +12,9 @@ function App() {
     <Router>
       <NavBar/>
         <Routes>
-          <Route path="/" element={<Home/>}/>
-          <Route path="/blog" element={<Post/>}/>
-          <Route path="/write" element={<NewPage/>}/>
+          <Route path="/react-tomato-blog/" element={<Home/>}/>
+          <Route path="/react-tomato-blog/blog" element={<Post/>}/>
+          <Route path="/react-tomato-blog/write" element={<NewPage/>}/>
         </Routes>
       <Footer/>
     </Router>
