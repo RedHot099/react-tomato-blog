@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-tomato-blog/static/css/main.402aec60.css",
+    "main.js": "/react-tomato-blog/static/js/main.87e024d5.js",
+    "static/media/background-pomidory1.jpg": "/react-tomato-blog/static/media/background-pomidory1.a9c0920ca62499c7b1b9.jpg",
+    "static/media/tomato-post-2.jpg": "/react-tomato-blog/static/media/tomato-post-2.a0bd27a21ed8b36b71b7.jpg",
+    "static/media/tomato-post-4.jpg": "/react-tomato-blog/static/media/tomato-post-4.9ff418e0b2b4ae3c15b3.jpg",
+    "static/media/tomato-post-3.jpg": "/react-tomato-blog/static/media/tomato-post-3.0b60f4c90ee4488d1b78.jpg",
+    "static/media/tomato-post-5.jpg": "/react-tomato-blog/static/media/tomato-post-5.55f7d15eacdd820e8a70.jpg",
+    "static/media/tomato-post-1.jpg": "/react-tomato-blog/static/media/tomato-post-1.2005500854cf649d508d.jpg",
+    "static/media/Livvic-Regular.ttf": "/react-tomato-blog/static/media/Livvic-Regular.d0f0167caa50903a2028.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/react-tomato-blog/static/media/JosefinSans-Regular.9d392d939ce34ab9dc2a.ttf",
+    "static/media/Anton-Regular.ttf": "/react-tomato-blog/static/media/Anton-Regular.02396b4d2cf38d4a7781.ttf",
+    "static/media/LexendDeca-Regular.ttf": "/react-tomato-blog/static/media/LexendDeca-Regular.19558eeb132b09794e87.ttf",
+    "static/media/Abel-Regular.ttf": "/react-tomato-blog/static/media/Abel-Regular.e8b810b8f2364e791205.ttf",
+    "index.html": "/react-tomato-blog/index.html",
+    "main.402aec60.css.map": "/react-tomato-blog/static/css/main.402aec60.css.map",
+    "main.87e024d5.js.map": "/react-tomato-blog/static/js/main.87e024d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402aec60.css",
+    "static/js/main.87e024d5.js"
+  ]
+}
