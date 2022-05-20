@@ -6,31 +6,31 @@ export default function NavBar() {
     <nav class="nav">
         <div class="nav-menu flex-row">
             <div class="nav-brand">
-                <a href="/" class="text-gray">Pomidorowo</a>
+                <a href="./" class="text-gray">Pomidorowo</a>
             </div>
             <div>
                 <ul class="nav-items">
-                    <a href="/blog">
+                    <a href="./">
                         <li class="nav-link">
                             Pomidory Rzymskie
                         </li>
                     </a>
-                    <a href="/blog">
+                    <a href="react-tomato-blog/blog">
                         <li class="nav-link">
                             Pomidory Paprykowe
                         </li>
                     </a>
-                    <a href="/blog">
+                    <a href="./blog">
                         <li class="nav-link">
                             Pomidory Czekoladowe
                         </li>
                     </a>
-                    <a href="/blog">
+                    <a href="./blog">
                         <li class="nav-link">
                             Pomidory Czarne
                         </li>
                     </a>
-                    <a href="/blog">
+                    <a href="./blog">
                         <li class="nav-link">
                             Pomidory Tygrysie
                         </li>
